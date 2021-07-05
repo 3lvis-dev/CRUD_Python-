@@ -1,4 +1,4 @@
-#Capa de Datos.
+#CRUD - Create Read Update Delete.
 #Manejo de Logging.
 
 '''

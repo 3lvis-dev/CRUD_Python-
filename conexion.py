@@ -1,4 +1,4 @@
-#Capa de Datos.
+#CRUD - Create Read Update Delete.
 #Conexión.
 
 '''
@@ -10,7 +10,7 @@ import sys
 
 class Conexion():
 	"""docstring for Conexion"""
-	_DATABASE = 'test_db'
+	_DATABASE = 'crud_persona'
 	_USERNAME = 'postgres'
 	_PASSWORD = 'admin'
 	_DB_PORT = '5432'
