@@ -61,6 +61,7 @@ class PersonaDAO():
 			return cursor.rowcount
 
 
+
 #PRUEBAS DE LA CLASE y OBJETOS
 #if __name__ == '__main__':
 
