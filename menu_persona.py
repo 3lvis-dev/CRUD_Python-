@@ -5,7 +5,7 @@
 Nota: 
 '''
 
-from clase_dao import PersonaDAO
+from clase_dao import PersonaDAOgit
 from clase_persona import Persona
 from logger_base import log
 
