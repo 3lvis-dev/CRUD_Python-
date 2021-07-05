@@ -23,11 +23,14 @@ class Persona():
 
 	def __str__(self):
 		return f''' 
-			ID Persona: {self._id_persona}
-			Username: Nombre: Apellido: 
-			{self._username} {self._nombre} {self._apellido}
-			Email: Password: Telefono: 
-			{self._email} {self._password} {self._telefono}
+			Persona:
+			ID Persona: {self._id_persona} 
+			Nombre: {self._nombre} 
+			Apellido: {self._apellido} 
+			Username: {self._username}
+			Email: {self._email}
+			Password: {self._password}
+			Telefono: {self._telefono}
 		'''	
 		
 	@property #Metodo Get ID Persona
